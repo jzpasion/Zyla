@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Zyla/static/css/main.37809742.css",
+    "main.js": "/Zyla/static/js/main.5688f34e.js",
+    "static/js/787.da7a05df.chunk.js": "/Zyla/static/js/787.da7a05df.chunk.js",
+    "static/media/Letter.png": "/Zyla/static/media/Letter.dc6b94c66463219dd68c.png",
+    "static/media/pic_1.jpg": "/Zyla/static/media/pic_1.f508d4371c6cc495ce75.jpg",
+    "static/media/4_pic.jpg": "/Zyla/static/media/4_pic.6922d5c859d8936b8e14.jpg",
+    "static/media/2_pic.jpg": "/Zyla/static/media/2_pic.592c29ea7b032a14703e.jpg",
+    "static/media/3_pic.jpg": "/Zyla/static/media/3_pic.4ea99b0fc9382c3c73ea.jpg",
+    "static/media/banner.png": "/Zyla/static/media/banner.34502f5c3db67ce2bc17.png",
+    "static/media/pic_2.jpg": "/Zyla/static/media/pic_2.1833847905c02df3b563.jpg",
+    "static/media/1_pic.jpg": "/Zyla/static/media/1_pic.cb87b3d565e7e8446679.jpg",
+    "static/media/first_pic.jpg": "/Zyla/static/media/first_pic.4733a101fd17de4e1c98.jpg",
+    "static/media/bg_letter.png": "/Zyla/static/media/bg_letter.bd935ce35d542f528f3a.png",
+    "static/media/bg_1.png": "/Zyla/static/media/bg_1.21eda90d52319de1ac77.png",
+    "static/media/2nd_pic.jpg": "/Zyla/static/media/2nd_pic.00dbb0cb6ec2735e91c4.jpg",
+    "static/media/bg_3.png": "/Zyla/static/media/bg_3.2a10acd0714dee6e51e3.png",
+    "static/media/bg_2.png": "/Zyla/static/media/bg_2.5e1e13905838fe57f095.png",
+    "static/media/Isla.png": "/Zyla/static/media/Isla.ba3ccae94d33fcf4dc9e.png",
+    "static/media/founder.png": "/Zyla/static/media/founder.70a5ba01d6662d8ac9f6.png",
+    "static/media/yatta.png": "/Zyla/static/media/yatta.5aceb23480ebedcad6ac.png",
+    "static/media/3.png": "/Zyla/static/media/3.4f007b13611e21b1c2d5.png",
+    "static/media/bg_5.png": "/Zyla/static/media/bg_5.805968f0c81f5b43b3c7.png",
+    "static/media/bg_4.png": "/Zyla/static/media/bg_4.0556e655d4ee71b6eb57.png",
+    "static/media/hato.png": "/Zyla/static/media/hato.a140e0f0f91e4d6966ea.png",
+    "static/media/gg.png": "/Zyla/static/media/gg.b8d7b968fc99e49ca0e0.png",
+    "static/media/nf.png": "/Zyla/static/media/nf.ba42a6ade2d407ee1540.png",
+    "static/media/apex_icon.png": "/Zyla/static/media/apex_icon.d2a1f3c5a9ad024f04b3.png",
+    "static/media/smile.png": "/Zyla/static/media/smile.970cdba81bf141ce59a7.png",
+    "index.html": "/Zyla/index.html",
+    "main.37809742.css.map": "/Zyla/static/css/main.37809742.css.map",
+    "main.5688f34e.js.map": "/Zyla/static/js/main.5688f34e.js.map",
+    "787.da7a05df.chunk.js.map": "/Zyla/static/js/787.da7a05df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37809742.css",
+    "static/js/main.5688f34e.js"
+  ]
+}
