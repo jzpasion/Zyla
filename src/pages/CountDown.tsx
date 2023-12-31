@@ -12,7 +12,7 @@ export default function CountDown() {
     const [seconds, setSeconds] = useState(0);
 
     const year = new Date().getFullYear();
-    const flight = new Date(year + 1, 1, 3).getTime();
+    const flight = new Date(year, 1, 3).getTime();
 
     setInterval(function () {
 
