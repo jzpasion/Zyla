@@ -1,0 +1,131 @@
+.first_container{
+    min-height: 100vh;
+    background-image: url('../components/Icons/bg_1.png');
+    background-size: cover;
+    position: relative;
+}
+
+@media (max-width: 480px){
+    .first_container {
+        background-position: 70%;
+    }
+  }
+
+.intro{
+    text-align: center;
+    font-size: 4rem;
+    font-weight: bold;
+    color: #f1f1f1;
+}
+
+.sub_intro{
+    text-align: center;
+    font-size: 1.4rem;
+    font-weight: 500;
+    color: #f1f1f1;
+    font-style: italic;
+}
+
+.twitch_layout{
+    border-style: solid;
+    border-color: #032539;
+    border-width: 3px;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.isla_banner > img{
+  height: 100%;
+  width: 100%;
+  object-fit:contain;
+  bottom: 0;
+
+}
+
+.twitch_chat_header {
+    margin: 0;
+    height: 37px;
+    background-color: #262626;
+    opacity: .9;
+    border-bottom: grey;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
+
+.twitch_chat_header > p{
+    font-size: 1rem;
+    color: #f1f1f1;
+    font-weight: 600; 
+    padding: 5px;
+}
+
+.twitch_chat {
+    margin: 0;
+    height: 300px;
+    background-color: #262626;
+}
+
+.twitch_chat > p{
+    font-size: 1rem;
+    color: #f1f1f1;
+    font-weight: 600; 
+    padding-left: 5px;
+    padding-top: 10px;
+}
+
+
+.twitch_chat_input{
+    margin: 0;
+    height: auto;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #737373;
+    border-radius: 3px;
+    background-color: #262626;
+    overflow: hidden;
+    display:inline-block;
+    
+}
+
+
+.type_chat_td{
+    min-width: 400px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #262626;
+}
+
+.type_chat{
+    font-size: 1rem;
+    font-weight: 600;
+    color: #f1f1f1;
+    margin-left: 10px;
+    
+}
+
+.chat_founder {
+    margin: 6px;
+    width: 25px;
+    height: 25px;
+}
+
+.chat_bits{
+
+    margin: 6px;
+    width: 25px;
+    height: 25px;
+    float:right;
+}
+
+.chat_smile{
+    margin: 6px;
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+    float:right
+}
+

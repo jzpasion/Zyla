@@ -1,0 +1,83 @@
+.Third_container{
+    min-height: 100vh;
+    background-image: url('../components/Icons/bg_3.png');
+    background-size: cover;
+    position: relative;
+}
+
+
+.text_center{
+    display: flex;
+    align-items: center;
+}
+.k-san, .kosumo{
+    background-color: #f1f1f1;
+    color: #042639;
+    border-radius: 52px;
+    font-size: 5rem;
+    text-align: center;
+    width: auto;
+    padding: 20px;
+    margin: 0 auto;
+    font-weight: 560;
+}
+
+
+.img_isla{
+    max-width: 100%;
+    max-height: 100%;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 10px 10px #032539;
+    transform: rotate(356deg);
+    transition: transform .2s;
+    margin: 0 auto;
+}
+
+.img_kosumo{
+    margin-top: 35px;
+    max-width: 100%;
+    max-height: 100%;
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 10px 10px #fa991c;
+    transform: rotate(4deg);
+    transition: transform .2s;
+    margin: 0 auto;
+    
+}
+
+@media (max-width: 480px){
+    .Third_container {
+        background-position: 70%;
+    }
+
+    .img_isla,.img_kosumo,.kosumo{
+        margin-top: 45px;
+    }
+    .kosumo{
+        margin-bottom: 15px;
+    }
+  }
+.img_kosumo > img{
+    
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+
+.img_kosumo:hover{
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1.2); /* Safari 3-8 */
+    transform: scale(1.2);
+}
+
+.img_isla:hover{
+    -ms-transform: scale(1.2); /* IE 9 */
+    -webkit-transform: scale(1.2); /* Safari 3-8 */
+    transform: scale(1.2);
+}

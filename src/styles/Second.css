@@ -1,0 +1,92 @@
+.second_container{
+    min-height: 100vh;
+    background-image: url('../components/Icons/bg_2.png');
+    background-size: cover;
+    position: relative;
+}
+
+@media (max-width: 480px){
+    .second_container {
+        background-position: 40%;
+    }
+  }
+
+.intro{
+    text-align: center;
+    font-size: 4rem;
+    font-weight: bold;
+    color: #f1f1f1;
+    }
+
+.sub_intro{
+        text-align: center;
+        font-size: 1.4rem;
+        font-weight: 500;
+        color: #f1f1f1;
+        font-style: italic;
+    }
+
+.card_isla{
+    min-height: 100%;
+    border-radius: 5px;
+}
+
+.isla_aira{
+    font-size: 2.5rem;
+    font-weight: 700;
+    text-align: center;
+    color: #f1f1f1 ;
+}
+.img_holder{
+    margin: 10px auto;
+    border-radius: 50%;
+    overflow: hidden;
+    height: 150px;
+    max-width: 150px;
+
+}
+
+.card_hours,.card_sent,.card_earned,.card_emotes {
+    margin: 5px;
+    min-height: 150px;
+   align-items: center;
+   background-color: #032539 !important;
+}
+
+.emotes > img{
+    height: 50px;
+    width: 50px;
+}
+
+.card_title{
+    margin-top: 15px !important;
+    color: #f1f1f1 !important;
+    font-size: 1.5rem !important;
+    font-weight: 600 !important;
+}
+.card_body{
+    font-size: 2.5rem !important;
+    font-weight: 600 !important;
+    color: #f1f1f1 !important;
+}
+
+.card_hours:hover{
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1);
+}
+.card_sent:hover{
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1);
+}
+.card_earned:hover{
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1);
+}
+.card_emotes:hover{
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1);
+}

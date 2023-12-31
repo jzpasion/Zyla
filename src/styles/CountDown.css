@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700|Montserrat:900');
+
+.CountDown_container{
+    min-height: 50vh;
+    position: relative;
+    background-color: #032539;
+}
+
+.intro_5{
+  text-align: center;
+  font-size: 4rem;
+  font-weight: bold;
+  color: #f1f1f1;
+}
+
+.sub_intro_5{
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 500;
+  color: #f1f1f1;
+  font-style: italic;
+}
+
+.counter_container{
+  margin-top: 35px;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Lato';
+  font-size: 1em;
+  letter-spacing: 5px;
+  height: 100%;
+  width: 100%;
+  
+}
+
+.days_wrapper,.hours_wrapper,.minutes_wrapper,.seconds_wrapper{
+    width: 300px;
+    display: inline-block;
+    border-radius: 5px;
+    margin: 2px;
+    padding: 20px;
+    background-color: #fa991c;
+}
+
+.numbers{
+  font-family: 'Montserrat';
+  color: #032539;
+  font-size: 4em;
+}
+
+.text_number{
+    margin: 0;
+}
