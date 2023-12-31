@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Zyla/static/css/main.37809742.css",
-    "main.js": "/Zyla/static/js/main.5688f34e.js",
+    "main.js": "/Zyla/static/js/main.029a9d3d.js",
     "static/js/787.da7a05df.chunk.js": "/Zyla/static/js/787.da7a05df.chunk.js",
     "static/media/Letter.png": "/Zyla/static/media/Letter.dc6b94c66463219dd68c.png",
     "static/media/pic_1.jpg": "/Zyla/static/media/pic_1.f508d4371c6cc495ce75.jpg",
@@ -30,11 +30,11 @@
     "static/media/smile.png": "/Zyla/static/media/smile.970cdba81bf141ce59a7.png",
     "index.html": "/Zyla/index.html",
     "main.37809742.css.map": "/Zyla/static/css/main.37809742.css.map",
-    "main.5688f34e.js.map": "/Zyla/static/js/main.5688f34e.js.map",
+    "main.029a9d3d.js.map": "/Zyla/static/js/main.029a9d3d.js.map",
     "787.da7a05df.chunk.js.map": "/Zyla/static/js/787.da7a05df.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.37809742.css",
-    "static/js/main.5688f34e.js"
+    "static/js/main.029a9d3d.js"
   ]
 }
